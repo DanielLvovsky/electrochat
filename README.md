@@ -69,5 +69,7 @@ I was following this tutorial but I have redone the UI, so go check it out [here
 </p>
 <p align="center">ElectroChat is Open Source so feel free to use it<img align="center" src="https://img.icons8.com/color/20/000000/open-source--v1.png"/> </a></p>
 <p align="center">
-  <img src="./client/public/favicon.ico" width="35" />
+  <a href="https://electrochat.netlify.app/" target="_blank">
+    <img src="./client/public/favicon.ico" width="35" />
+    </a>
 </p>
