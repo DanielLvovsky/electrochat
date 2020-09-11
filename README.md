@@ -67,7 +67,7 @@ I was following this tutorial but I have redone the UI, so go check it out [here
 <p align="center">
   <sub>Copyright © 2020-present, Daniel Lvovsky.</sub>
 </p>
-<p align="center">ElectroChat <a href="https://github.com/DanielLvovsky/nSlate/blob/master/LICENSE.md">is MIT licensed <img align="center" src="https://img.icons8.com/color/20/000000/open-source--v1.png"/> </a></p>
+<p align="center">ElectroChat is Open Source so feel free to use it<img align="center" src="https://img.icons8.com/color/20/000000/open-source--v1.png"/> </a></p>
 <p align="center">
   <img src="./client/public/favicon.ico" width="35" />
 </p>
