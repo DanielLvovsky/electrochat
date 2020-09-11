@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/enviroment-node.js-339933?&logo=node.js" alt="Project Technology" />
   <img src="https://img.shields.io/badge/language-javascript-F7DF1E?&logo=javascript" alt="Project Technology" />
   <img src="https://img.shields.io/badge/framework-react.js-61DAFB?&logo=react" alt="Project Technology" />
+    <img src="https://img.shields.io/badge/library-socket.io-010101?&logo=socket.io" alt="Project Technology" />
 </p>
 
 <p align="center">
@@ -25,9 +26,6 @@
 
 # Live Website
 You can check out ElectroChat with [this link.](https://electrochat.netlify.app/)
-
-# Getting Started:
->  _**Dont forget to check enviroment variables, in .env file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
 
     
 Install dependencies, remember, lets use example `npm` but you can use the package manager of your choice:
@@ -41,7 +39,7 @@ Run the script:
 Done! in a few seconds you should be able to open a browser tab with your screen displaying this:   
 
 
-![Main Print Screen](https://daniellvovsky.com/static/c972e63ad53a4053abfabd8fff51569e/91fa7/nSlate-01.webp)
+![Main Print Screen](https://raw.githubusercontent.com/DanielLvovsky/electrochat/master/image.png)
 
 ---
 
