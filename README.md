@@ -1,15 +1,75 @@
-# Realtime Chat Application
+<p align="center">
+    <img src="./client/public/favicon.ico" alt="ElectroChat" />
+<p>
+<p align="center">
+    <a href="https://electrochat.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/website?label=ElectroChat.com&style=for-the-badge&url=https://electrochat.netlify.app/&logo=netlify&color=4ECCA3" alt="ElectroChat" />
+    </a>
+</p>
+<h1 align="center">
+    ElectroChat
+</h1>
+<p align="center">This is a simple Chat app that uses React.js, Node.js and Socket.io</p>
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/enviroment-node.js-339933?&logo=node.js" alt="Project Technology" />
+  <img src="https://img.shields.io/badge/language-javascript-F7DF1E?&logo=javascript" alt="Project Technology" />
+  <img src="https://img.shields.io/badge/framework-react.js-61DAFB?&logo=react" alt="Project Technology" />
+</p>
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+<p align="center">
+    <a href="https://www.linkedin.com/in/daniel-lvovsky/" target="_blank">
+      <img src="https://img.shields.io/twitter/url?label=Connect%20%40DanielLvovsky&logo=linkedin&url=https://www.linkedin.com/in/daniel-lvovsky/" alt="Follow" />
+    </a>
+</p>
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+# Live Website
+You can check out ElectroChat with [this link.](https://electrochat.netlify.app/)
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+# Getting Started:
+>  _**Dont forget to check enviroment variables, in .env file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
 
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
+    
+Install dependencies, remember, lets use example `npm` but you can use the package manager of your choice:
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+    npm install
+    
+Run the script:
+
+    npm run start
+    
+Done! in a few seconds you should be able to open a browser tab with your screen displaying this:   
+
+
+![Main Print Screen](https://daniellvovsky.com/static/c972e63ad53a4053abfabd8fff51569e/91fa7/nSlate-01.webp)
+
+---
+
+Build:
+
+     npm run build
+   
+Now you will have a build folder where you can upload to your hosting provider
+
+
+    
+    
+# Refrence
+
+I was following this tutorial but I have redone the UI, so go check it out [here](https://www.youtube.com/watch?v=ZwFA3YMfkoc)
+
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Daniel Lvovsky.</sub>
+</p>
+<p align="center">nSlate <a href="https://github.com/DanielLvovsky/nSlate/blob/master/LICENSE.md">is MIT licensed <img align="center" src="https://img.icons8.com/color/20/000000/open-source--v1.png"/> </a></p>
+<p align="center">
+  <img src="./src/assets/logo192.png" width="35" />
+</p>
